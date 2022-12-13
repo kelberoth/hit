@@ -7,3 +7,5 @@ rm -rf 폴더이름 (안물어보고 삭제 함)
 
 A(메인코드관리자) git add, git commit, git push 
 B(로그인화면) git add, git commit, git push, git pull request 
+
+git init -깃허브 성격부여 
