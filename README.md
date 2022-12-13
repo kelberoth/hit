@@ -14,3 +14,4 @@ git remote add origin https://github.com/kelberoth/hit.git
 git add . (폴더의 파일들이 업로드 할 준비)
 git commit -m '처음 코드 저장소' (올릴 때 어떤메세지로 올릴 지)
 git push origin master (깃허브에 보내기)
+git clone 코드저장소 쓰면 다운 받아진다. 
